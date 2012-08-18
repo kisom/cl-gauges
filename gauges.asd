@@ -2,7 +2,7 @@
 
 (asdf:defsystem #:gauges
   :serial t
-  :description "Describe gauges here"
+  :description "CL interface to Gaug.es API"
   :author "Kyle Isom <coder@kyleisom.net>"
   :license "ISC license"
   :depends-on (#:drakma
